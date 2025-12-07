@@ -1,6 +1,11 @@
 import React, { createContext, useContext, useEffect, useRef } from 'react';
+
+// =====================================================================
+// ⚠️ IMPORTANT: REPLACE THESE VALUES WITH YOUR SHOPIFY STORE DETAILS
+// =====================================================================
+// You can get these from your Shopify Admin > Sales Channels > Buy Button
 const SHOPIFY_CONFIG = {
-  domain: 'checkout.afrymasters.com', 
+  domain: 'rbium6-sm.myshopify.com',
   storefrontAccessToken: '49279857344dfca85cc651777f2464af',
   productId: '10180323147908',
 };
