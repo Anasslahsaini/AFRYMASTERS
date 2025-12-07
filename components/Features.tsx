@@ -56,7 +56,7 @@ const Features: React.FC = () => {
                     </div>
                 </div>
                 <div className="relative h-64 rounded-xl overflow-hidden shadow-lg">
-                    <img src="https://raw.githubusercontent.com/Anasslahsaini/frmasters/refs/heads/main/photo_2025-12-07_21-56-26.jpg" alt="Happy cooking" className="w-full h-full object-cover" />
+                    <img src="https://raw.githubusercontent.com/Anasslahsaini/frmasters/refs/heads/main/photo_2025-12-07_21-39-36.jpg" alt="Happy cooking" className="w-full h-full object-cover" />
                 </div>
             </div>
         </div>
