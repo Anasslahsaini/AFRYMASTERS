@@ -27,8 +27,8 @@ const StickyMobileCta: React.FC = () => {
         <div className="flex flex-col">
           <span className="text-[10px] text-gray-500 font-bold uppercase tracking-wider">Today Only</span>
           <div className="flex items-baseline gap-2">
-            <span className="text-brand-orange font-display font-bold text-3xl">$9.99</span>
-            <span className="text-gray-400 line-through text-sm font-medium">$29</span>
+            <span className="text-brand-orange font-display font-bold text-3xl">$27</span>
+            <span className="text-gray-400 line-through text-sm font-medium">$45</span>
           </div>
         </div>
         <button 
@@ -51,5 +51,6 @@ const StickyMobileCta: React.FC = () => {
     </div>
   );
 };
+
 
 export default StickyMobileCta;
