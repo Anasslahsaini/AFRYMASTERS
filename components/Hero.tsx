@@ -78,7 +78,7 @@ const Hero: React.FC = () => {
                 onClick={openCheckout}
                 className="w-full sm:w-auto bg-brand-orange hover:bg-orange-600 text-white px-8 py-5 rounded-xl font-bold text-2xl uppercase tracking-wide transition-all transform hover:scale-105 shadow-[0_0_30px_rgba(255,107,0,0.5)] flex items-center justify-center gap-3 mt-2"
               >
-                Get Instant Access — $9.99
+                Get Instant Access — $27
                 <BookOpen size={24} />
               </button>
               
