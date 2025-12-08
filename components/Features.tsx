@@ -139,7 +139,7 @@ const Features: React.FC = () => {
                     onClick={openCheckout}
                     className="bg-brand-orange hover:bg-orange-600 text-white px-8 py-4 rounded-full font-bold text-xl transition-all transform hover:scale-105 shadow-lg flex items-center justify-center gap-2 mx-auto"
                 >
-                    Get Instant Access — $9.99
+                    Get Instant Access — $27
                     <ArrowRight size={20} />
                 </button>
             </div>
