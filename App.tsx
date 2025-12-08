@@ -40,15 +40,15 @@ const MainContent = () => {
             </h2>
             <p className="text-xl text-gray-300 mb-10 max-w-2xl mx-auto">
               Get the complete 600-recipe cookbook + all 3 bonuses instantly. <br/>
-              <span className="text-brand-orange font-bold">The price goes back to $29 soon.</span>
+              <span className="text-brand-orange font-bold">The price goes back to $74 soon.</span>
             </p>
             
             <div className="bg-white text-brand-dark p-8 rounded-3xl shadow-2xl max-w-md mx-auto transform transition-transform hover:scale-105 border-4 border-brand-orange">
               <div className="text-center mb-6">
                 <p className="text-gray-500 font-bold uppercase tracking-wider text-sm mb-1">Total Value: $74</p>
                 <div className="flex justify-center items-baseline gap-3">
-                    <span className="text-gray-400 line-through text-2xl font-bold">$29</span>
-                    <span className="text-6xl font-display font-bold text-brand-orange">$9.99</span>
+                    <span className="text-gray-400 line-through text-2xl font-bold">$74</span>
+                    <span className="text-6xl font-display font-bold text-brand-orange">$27</span>
                 </div>
               </div>
 
@@ -63,7 +63,7 @@ const MainContent = () => {
                 onClick={openCheckout}
                 className="w-full bg-brand-orange hover:bg-orange-600 text-white px-8 py-4 rounded-xl font-bold text-xl shadow-lg transition-all flex items-center justify-center gap-2 mb-4 group"
               >
-                <span>Get Instant Access — $9.99</span>
+                <span>Get Instant Access — $27</span>
                 <ArrowRight size={24} className="group-hover:translate-x-1 transition-transform" />
               </button>
               
