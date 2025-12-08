@@ -66,8 +66,8 @@ const Hero: React.FC = () => {
             <div className="pt-6 flex flex-col items-center lg:items-start gap-4">
               
               <div className="flex items-end gap-3">
-                 <span className="text-gray-400 line-through text-2xl font-bold mb-2">Reg. $29</span>
-                 <span className="text-7xl font-display font-bold text-brand-orange leading-none drop-shadow-lg">$9.99</span>
+                 <span className="text-gray-400 line-through text-2xl font-bold mb-2">Reg. $80.99</span>
+                 <span className="text-7xl font-display font-bold text-brand-orange leading-none drop-shadow-lg">$27</span>
               </div>
               <p className="text-green-400 font-bold text-sm uppercase tracking-wide">
                 <CheckCircle size={14} className="inline mr-1" />
